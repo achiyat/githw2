@@ -1,0 +1,3 @@
+﻿  file.c
+C:\Users\achiy\source\repos\file\file\file.c(130,12): warning C4477: 'scanf' : format string '%s' requires an argument of type 'char *', but variadic argument 1 has type 'int *'
+  file.vcxproj -> C:\Users\achiy\source\repos\file\x64\Debug\file.exe
